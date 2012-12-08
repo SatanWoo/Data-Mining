@@ -1,0 +1,3 @@
+This chapter I will focus on some method fo recommending information for related people.
+
+The referenced file is on :http://guidetodatamining.com/guide/ch2.pdf
